@@ -1,0 +1,33 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# 2013499-1
+#
+DEF 2013499-1 J 0 40 Y Y 1 L N
+F0 "J" -300 300 50 H V L BNN
+F1 "2013499-1" -300 -400 50 H V L BNN
+F2 "TE_2013499-1" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "Manufacturer Recommendations" 0 0 50 H I L BNN "STANDARD"
+F5 "B2" 0 0 50 H I L BNN "PARTREV"
+F6 "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F2013499%7FB2%7Fpdf%7FEnglish%7FENG_CD_2013499_B2.pdf%7F2013499-1" 0 0 50 H I L BNN "DATASHEET"
+F7 "TE CONNECTIVITY" 0 0 50 H I L BNN "MANUFACTURER"
+DRAW
+S -300 -300 300 300 0 0 10 f
+X SLD 6 400 -200 100 L 40 40 0 0 P 
+X SLD 7 400 -200 100 L 40 40 0 0 P 
+X SLD 8 400 -200 100 L 40 40 0 0 P 
+X SLD 9 400 -200 100 L 40 40 0 0 P 
+X SLD 10 400 -200 100 L 40 40 0 0 P 
+X SLD 11 400 -200 100 L 40 40 0 0 P 
+X VBUS 1 -400 200 100 R 40 40 0 0 W 
+X D- 2 -400 100 100 R 40 40 0 0 P 
+X D+ 3 -400 0 100 R 40 40 0 0 P 
+X ID 4 -400 -100 100 R 40 40 0 0 P 
+X GND 5 -400 -200 100 R 40 40 0 0 W 
+ENDDRAW
+ENDDEF
+#
+# End Library

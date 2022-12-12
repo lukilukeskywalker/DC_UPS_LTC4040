@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "DC_UPS-backups")(type "KiCad")(uri "${KIPRJMOD}/DC_UPS-backups")(options "")(descr ""))
+)
