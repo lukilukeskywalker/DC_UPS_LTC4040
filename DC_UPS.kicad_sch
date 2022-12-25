@@ -2307,13 +2307,13 @@
   (symbol (lib_id "Device:C") (at 176.53 55.88 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 36eeaafd-4e85-4cfc-9f34-4ad5bfce35a3)
-    (property "Reference" "C2" (id 0) (at 177.8 53.34 0)
+    (property "Reference" "C3" (id 0) (at 177.8 53.34 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10u" (id 1) (at 176.53 58.42 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" (id 2) (at 177.4952 59.69 0)
+    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (id 2) (at 177.4952 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 176.53 55.88 0)
@@ -2460,7 +2460,7 @@
   (symbol (lib_id "Device:C") (at 184.15 55.88 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 64f276de-1c7a-4ff7-8974-d21304c4ffe2)
-    (property "Reference" "C3" (id 0) (at 185.42 53.34 0)
+    (property "Reference" "C2" (id 0) (at 185.42 53.34 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0,1uF" (id 1) (at 185.42 58.42 0)
@@ -3059,11 +3059,11 @@
     (path "/16108561-d524-4af7-aebe-99ff2f7b86ac"
       (reference "C1") (unit 1) (value "2.2uF") (footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder")
     )
-    (path "/36eeaafd-4e85-4cfc-9f34-4ad5bfce35a3"
-      (reference "C2") (unit 1) (value "10u") (footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder")
-    )
     (path "/64f276de-1c7a-4ff7-8974-d21304c4ffe2"
-      (reference "C3") (unit 1) (value "0,1uF") (footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder")
+      (reference "C2") (unit 1) (value "0,1uF") (footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder")
+    )
+    (path "/36eeaafd-4e85-4cfc-9f34-4ad5bfce35a3"
+      (reference "C3") (unit 1) (value "10u") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/4d0223b3-ce78-4ac4-bfe6-79ff18ec7346"
       (reference "C4") (unit 1) (value "0,1uF") (footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder")

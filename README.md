@@ -16,3 +16,7 @@ And the board design is Included:
 
 The board hasn't been tested yet, so take with care. 
 Also I do not take any responsability or problems that may arrise with its use
+
+### Proyects that may arrise Interest to the readers:
+- [The Ultimate Single Cell Lithium UPS for any Raspberry Pi](https://hackaday.io/project/162653/logs?sort=oldest)
+- [LTC4040 5V, 2.5A Uninterruptible Power Supply (UPS) with USB-C](https://www.beyondlogic.org/ltc4040-5v-2-5a-uninterruptible-power-supply-ups-with-usb-c/)
